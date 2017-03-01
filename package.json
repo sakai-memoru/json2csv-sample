@@ -1,0 +1,21 @@
+{
+  "name": "json2csv-sample",
+  "version": "1.0.0",
+  "description": "json2csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/*.*.js",
+    "sample" : "node ./lib/json2csv-sample.js",
+    "sample2" : "node ./lib/json2csv-sample2.js"
+  },
+  "keywords": [
+    "json",
+    "csv"
+  ],
+  "author": "sakai.memoru",
+  "license": "MIT",
+  "dependencies": {
+    "flat": "^2.0.1",
+    "json2csv": "^3.7.3"
+  }
+}
