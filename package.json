@@ -6,7 +6,8 @@
   "scripts": {
     "test": "mocha ./test/*.*.js",
     "sample" : "node ./lib/json2csv-sample.js",
-    "sample2" : "node ./lib/json2csv-sample2.js"
+    "sample2" : "node ./lib/json2csv-sample2.js",
+    "sample3" : "node ./lib/json2csv-sample3.js"
   },
   "keywords": [
     "json",

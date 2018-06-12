@@ -3,7 +3,7 @@ json2csv-sample
 
 Overview
 --------------------------------
-sample for using json2csv and flat module.
+sample for using json2csv module.
 
 Description
 -------------------------------
@@ -20,18 +20,12 @@ Usage
 -------------------------------
 
 ```bash
-$ node json2csv-sample.js
+$ node json2csv-sample3.js
 ```
 
-```bash
-$ node json2csv-sample2.js
-```
 
 ```bash
-$ npm run sample
-```
-```bash
-$ npm run sample2
+$ npm run sample3
 ```
 
 // --- end of file --- //
